@@ -1,0 +1,166 @@
+﻿Restoring packages for C:\Users\Marco Leon\source\repos\AuthTesting\AuthTesting.csproj...
+Restoring packages for C:\Users\Marco Leon\source\repos\AuthTest\AuthTest.csproj...
+  GET https://api.nuget.org/v3-flatcontainer/servicefabric.backuprestore/index.json
+  OK https://api.nuget.org/v3-flatcontainer/servicefabric.backuprestore/index.json 603ms
+  GET https://api.nuget.org/v3-flatcontainer/servicefabric.backuprestore/3.1.3/servicefabric.backuprestore.3.1.3.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/servicefabric.backuprestore/3.1.3/servicefabric.backuprestore.3.1.3.nupkg 719ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.actors/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.services/index.json
+  GET https://api.nuget.org/v3-flatcontainer/windowsazure.storage/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric/index.json 729ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric/6.1.480/microsoft.servicefabric.6.1.480.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.actors/index.json 793ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.actors/3.0.480/microsoft.servicefabric.actors.3.0.480.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.services/index.json 1349ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.services/3.0.480/microsoft.servicefabric.services.3.0.480.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/windowsazure.storage/index.json 1439ms
+  GET https://api.nuget.org/v3-flatcontainer/windowsazure.storage/9.1.1/windowsazure.storage.9.1.1.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.actors/3.0.480/microsoft.servicefabric.actors.3.0.480.nupkg 1137ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric/6.1.480/microsoft.servicefabric.6.1.480.nupkg 1315ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.services.remoting/index.json
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.diagnostics.internal/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.services/3.0.480/microsoft.servicefabric.services.3.0.480.nupkg 2420ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.data/index.json
+  OK https://api.nuget.org/v3-flatcontainer/windowsazure.storage/9.1.1/windowsazure.storage.9.1.1.nupkg 3427ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.services.remoting/index.json 2290ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.services.remoting/3.0.480/microsoft.servicefabric.services.remoting.3.0.480.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.data/index.json 1408ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.data/3.0.480/microsoft.servicefabric.data.3.0.480.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.services.remoting/3.0.480/microsoft.servicefabric.services.remoting.3.0.480.nupkg 1441ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.diagnostics.internal/index.json 4253ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.diagnostics.internal/3.0.480/microsoft.servicefabric.diagnostics.internal.3.0.480.nupkg
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.fabrictransport.internal/index.json
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.diagnostics.internal/3.0.480/microsoft.servicefabric.diagnostics.internal.3.0.480.nupkg 562ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.data/3.0.480/microsoft.servicefabric.data.3.0.480.nupkg 2132ms
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.fabrictransport.internal/index.json 1117ms
+  GET https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.fabrictransport.internal/3.0.480/microsoft.servicefabric.fabrictransport.internal.3.0.480.nupkg
+  OK https://api.nuget.org/v3-flatcontainer/microsoft.servicefabric.fabrictransport.internal/3.0.480/microsoft.servicefabric.fabrictransport.internal.3.0.480.nupkg 583ms
+Installed ServiceFabric.BackupRestore 3.1.3 from https://api.nuget.org/v3/index.json with content hash Rx8eCU43LEDbHZgWIgMlyeY9hsbPg2DgW4818gqafYmE9DJbZoi+RXR8RaCbqIlvI30kxbYDobDic2hvLdunIg==.
+Installed Microsoft.ServiceFabric.Diagnostics.Internal 3.0.480 from https://api.nuget.org/v3/index.json with content hash 1KeN8lpOMfRtH1FVyULMErcxYooR/IBVcE02oizOkoQyM4D26+m/l1FIzXawE3cw7ZwmJqXt1bLLG9Co5u//7A==.
+Installed Microsoft.ServiceFabric.Services.Remoting 3.0.480 from https://api.nuget.org/v3/index.json with content hash mgDF9PWdHoL/U6z1Es7YmwZUSf/wAZa/UAj1hz0U+sIzVRN+Y1ksovMswl7OwCU2vPyWuoKOsLUFJz85f78YeQ==.
+Installed Microsoft.ServiceFabric.Services 3.0.480 from https://api.nuget.org/v3/index.json with content hash KwGkrKez4fqzaTuzZDAOJ+cRUKECQ124gceSg0mk75MhofwUdKyDJeHJliMFnq5UYK9v6ktTLdQAP/m67iUP2w==.
+Installed Microsoft.ServiceFabric.Data 3.0.480 from https://api.nuget.org/v3/index.json with content hash 6xGX90T92U5bUf5zu+Ro2tBsWIgI1fQEv6me6U+z58yy1JeJ4Mn0Nu0FzMTl517wYFeEplu/8mg8WV7xqP2a3Q==.
+Installed Microsoft.ServiceFabric.FabricTransport.Internal 3.0.480 from https://api.nuget.org/v3/index.json with content hash uasTPTjZPQ01fcYcRijPq4G3/VQDVn0I02lTY68CZ924yxML5cQOR5JhCkY92TpBiuBM7gs6i23LouPcJYGPkA==.
+Installed Microsoft.ServiceFabric.Actors 3.0.480 from https://api.nuget.org/v3/index.json with content hash 2alJc64ivQ+E8Qf5BX/ytcbRQ8VOBMtTy9hKdENLSRiBlM3GAz0b/6ao00VREoPuT1gYlLK2coei9ANcHBvC+w==.
+Installed WindowsAzure.Storage 9.1.1 from https://api.nuget.org/v3/index.json with content hash 81JkWbWpFIAYaheDazee3xNKzmgeTBO9cuUNJNUsTBTwmcmtPacRivw/8VDAv8ykoV+jol/xWnGr33MF1tqBvA==.
+Installed Microsoft.ServiceFabric 6.1.480 from https://api.nuget.org/v3/index.json with content hash WZqhHv3sgtkmgz6imfa58J6UOIqGHRjovHiC1TyBe21dIbn9r4QosnjnSYQnESbxKQ27D12kgwmgO3ohX1FEoQ==.
+Installing NuGet package ServiceFabric.BackupRestore 3.1.3.
+Committing restore...
+Writing assets file to disk. Path: C:\Users\Marco Leon\source\repos\AuthTesting\obj\project.assets.json
+Successfully installed 'Microsoft.NETCore.Platforms 1.1.0' to AuthTesting
+Successfully installed 'Microsoft.NETCore.Targets 1.1.0' to AuthTesting
+Successfully installed 'Microsoft.ServiceFabric 6.1.480' to AuthTesting
+Successfully installed 'Microsoft.ServiceFabric.Actors 3.0.480' to AuthTesting
+Successfully installed 'Microsoft.ServiceFabric.Data 3.0.480' to AuthTesting
+Successfully installed 'Microsoft.ServiceFabric.Diagnostics.Internal 3.0.480' to AuthTesting
+Successfully installed 'Microsoft.ServiceFabric.FabricTransport.Internal 3.0.480' to AuthTesting
+Successfully installed 'Microsoft.ServiceFabric.Services 3.0.480' to AuthTesting
+Successfully installed 'Microsoft.ServiceFabric.Services.Remoting 3.0.480' to AuthTesting
+Successfully installed 'Microsoft.Win32.Primitives 4.3.0' to AuthTesting
+Successfully installed 'NETStandard.Library 1.6.1' to AuthTesting
+Successfully installed 'Newtonsoft.Json 11.0.2' to AuthTesting
+Successfully installed 'runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.native.System 4.3.0' to AuthTesting
+Successfully installed 'runtime.native.System.IO.Compression 4.3.0' to AuthTesting
+Successfully installed 'runtime.native.System.Net.Http 4.3.0' to AuthTesting
+Successfully installed 'runtime.native.System.Security.Cryptography.Apple 4.3.0' to AuthTesting
+Successfully installed 'runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple 4.3.0' to AuthTesting
+Successfully installed 'runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'ServiceFabric.BackupRestore 3.1.3' to AuthTesting
+Successfully installed 'System.AppContext 4.3.0' to AuthTesting
+Successfully installed 'System.Buffers 4.3.0' to AuthTesting
+Successfully installed 'System.Collections 4.3.0' to AuthTesting
+Successfully installed 'System.Collections.Concurrent 4.3.0' to AuthTesting
+Successfully installed 'System.Console 4.3.0' to AuthTesting
+Successfully installed 'System.Diagnostics.Debug 4.3.0' to AuthTesting
+Successfully installed 'System.Diagnostics.DiagnosticSource 4.3.0' to AuthTesting
+Successfully installed 'System.Diagnostics.Tools 4.3.0' to AuthTesting
+Successfully installed 'System.Diagnostics.Tracing 4.3.0' to AuthTesting
+Successfully installed 'System.Globalization 4.3.0' to AuthTesting
+Successfully installed 'System.Globalization.Calendars 4.3.0' to AuthTesting
+Successfully installed 'System.Globalization.Extensions 4.3.0' to AuthTesting
+Successfully installed 'System.IO 4.3.0' to AuthTesting
+Successfully installed 'System.IO.Compression 4.3.0' to AuthTesting
+Successfully installed 'System.IO.Compression.ZipFile 4.3.0' to AuthTesting
+Successfully installed 'System.IO.FileSystem 4.3.0' to AuthTesting
+Successfully installed 'System.IO.FileSystem.Primitives 4.3.0' to AuthTesting
+Successfully installed 'System.Linq 4.3.0' to AuthTesting
+Successfully installed 'System.Linq.Expressions 4.3.0' to AuthTesting
+Successfully installed 'System.Net.Http 4.3.0' to AuthTesting
+Successfully installed 'System.Net.Primitives 4.3.0' to AuthTesting
+Successfully installed 'System.Net.Sockets 4.3.0' to AuthTesting
+Successfully installed 'System.ObjectModel 4.3.0' to AuthTesting
+Successfully installed 'System.Reflection 4.3.0' to AuthTesting
+Successfully installed 'System.Reflection.Emit 4.3.0' to AuthTesting
+Successfully installed 'System.Reflection.Emit.ILGeneration 4.3.0' to AuthTesting
+Successfully installed 'System.Reflection.Emit.Lightweight 4.3.0' to AuthTesting
+Successfully installed 'System.Reflection.Extensions 4.3.0' to AuthTesting
+Successfully installed 'System.Reflection.Primitives 4.3.0' to AuthTesting
+Successfully installed 'System.Reflection.TypeExtensions 4.3.0' to AuthTesting
+Successfully installed 'System.Resources.ResourceManager 4.3.0' to AuthTesting
+Successfully installed 'System.Runtime 4.3.0' to AuthTesting
+Successfully installed 'System.Runtime.Extensions 4.3.0' to AuthTesting
+Successfully installed 'System.Runtime.Handles 4.3.0' to AuthTesting
+Successfully installed 'System.Runtime.InteropServices 4.3.0' to AuthTesting
+Successfully installed 'System.Runtime.InteropServices.RuntimeInformation 4.3.0' to AuthTesting
+Successfully installed 'System.Runtime.Numerics 4.3.0' to AuthTesting
+Successfully installed 'System.Security.Cryptography.Algorithms 4.3.0' to AuthTesting
+Successfully installed 'System.Security.Cryptography.Cng 4.3.0' to AuthTesting
+Successfully installed 'System.Security.Cryptography.Csp 4.3.0' to AuthTesting
+Successfully installed 'System.Security.Cryptography.Encoding 4.3.0' to AuthTesting
+Successfully installed 'System.Security.Cryptography.OpenSsl 4.3.0' to AuthTesting
+Successfully installed 'System.Security.Cryptography.Primitives 4.3.0' to AuthTesting
+Successfully installed 'System.Security.Cryptography.X509Certificates 4.3.0' to AuthTesting
+Successfully installed 'System.Text.Encoding 4.3.0' to AuthTesting
+Successfully installed 'System.Text.Encoding.Extensions 4.3.0' to AuthTesting
+Successfully installed 'System.Text.RegularExpressions 4.3.0' to AuthTesting
+Successfully installed 'System.Threading 4.3.0' to AuthTesting
+Successfully installed 'System.Threading.Tasks 4.3.0' to AuthTesting
+Successfully installed 'System.Threading.Tasks.Extensions 4.3.0' to AuthTesting
+Successfully installed 'System.Threading.Timer 4.3.0' to AuthTesting
+Successfully installed 'System.Xml.ReaderWriter 4.3.0' to AuthTesting
+Successfully installed 'System.Xml.XDocument 4.3.0' to AuthTesting
+Successfully installed 'WindowsAzure.Storage 9.1.1' to AuthTesting
+Executing nuget actions took 747 ms
+Installing NuGet package ServiceFabric.BackupRestore 3.1.3.
+Committing restore...
+Generating MSBuild file C:\Users\Marco Leon\source\repos\AuthTest\obj\AuthTest.csproj.nuget.g.props.
+Writing assets file to disk. Path: C:\Users\Marco Leon\source\repos\AuthTest\obj\project.assets.json
+Successfully uninstalled 'Microsoft.CSharp 4.0.1' from AuthTest
+Successfully uninstalled 'Newtonsoft.Json 9.0.1' from AuthTest
+Successfully uninstalled 'System.Dynamic.Runtime 4.0.11' from AuthTest
+Successfully uninstalled 'System.Runtime.Serialization.Primitives 4.1.1' from AuthTest
+Successfully installed 'Microsoft.ServiceFabric 6.1.480' to AuthTest
+Successfully installed 'Microsoft.ServiceFabric.Actors 3.0.480' to AuthTest
+Successfully installed 'Microsoft.ServiceFabric.Data 3.0.480' to AuthTest
+Successfully installed 'Microsoft.ServiceFabric.Diagnostics.Internal 3.0.480' to AuthTest
+Successfully installed 'Microsoft.ServiceFabric.FabricTransport.Internal 3.0.480' to AuthTest
+Successfully installed 'Microsoft.ServiceFabric.Services 3.0.480' to AuthTest
+Successfully installed 'Microsoft.ServiceFabric.Services.Remoting 3.0.480' to AuthTest
+Successfully installed 'Newtonsoft.Json 11.0.2' to AuthTest
+Successfully installed 'ServiceFabric.BackupRestore 3.1.3' to AuthTest
+Successfully installed 'WindowsAzure.Storage 9.1.1' to AuthTest
+Executing nuget actions took 225 ms
+Time Elapsed: 00:00:18.7242888
+========== Finished ==========
+
+Restored C:\Users\Marco Leon\source\repos\AuthTest\AuthTest.csproj (in 661 ms).
+Time Elapsed: 00:00:00.7939041
+========== Finished ==========
+
+
+Restored C:\Users\Marco Leon\source\repos\AuthTest\AuthTest.csproj (in 446 ms).
+Time Elapsed: 00:00:00.5642209
+========== Finished ==========
+
+
