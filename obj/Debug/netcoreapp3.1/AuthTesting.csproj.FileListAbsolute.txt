@@ -1,0 +1,14 @@
+C:\Users\Marco Leon\source\repos\AuthTesting\bin\Debug\netcoreapp3.1\AuthTesting.exe
+C:\Users\Marco Leon\source\repos\AuthTesting\bin\Debug\netcoreapp3.1\AuthTesting.deps.json
+C:\Users\Marco Leon\source\repos\AuthTesting\bin\Debug\netcoreapp3.1\AuthTesting.runtimeconfig.json
+C:\Users\Marco Leon\source\repos\AuthTesting\bin\Debug\netcoreapp3.1\AuthTesting.runtimeconfig.dev.json
+C:\Users\Marco Leon\source\repos\AuthTesting\bin\Debug\netcoreapp3.1\AuthTesting.dll
+C:\Users\Marco Leon\source\repos\AuthTesting\bin\Debug\netcoreapp3.1\AuthTesting.pdb
+C:\Users\Marco Leon\source\repos\AuthTesting\obj\Debug\netcoreapp3.1\AuthTesting.csproj.AssemblyReference.cache
+C:\Users\Marco Leon\source\repos\AuthTesting\obj\Debug\netcoreapp3.1\AuthTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Leon\source\repos\AuthTesting\obj\Debug\netcoreapp3.1\AuthTesting.AssemblyInfoInputs.cache
+C:\Users\Marco Leon\source\repos\AuthTesting\obj\Debug\netcoreapp3.1\AuthTesting.AssemblyInfo.cs
+C:\Users\Marco Leon\source\repos\AuthTesting\obj\Debug\netcoreapp3.1\AuthTesting.csproj.CoreCompileInputs.cache
+C:\Users\Marco Leon\source\repos\AuthTesting\obj\Debug\netcoreapp3.1\AuthTesting.dll
+C:\Users\Marco Leon\source\repos\AuthTesting\obj\Debug\netcoreapp3.1\AuthTesting.pdb
+C:\Users\Marco Leon\source\repos\AuthTesting\obj\Debug\netcoreapp3.1\AuthTesting.genruntimeconfig.cache
