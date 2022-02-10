@@ -1,6 +1,9 @@
 language: csharp
 solution: AuthTesting.sln
 
-script: 
+install:
   - dotnet restore
-  - dotnet test
+
+script: 
+  - dotnet build
+  - dotnet test 
