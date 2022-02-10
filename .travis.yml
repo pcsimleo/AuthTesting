@@ -1,0 +1,4 @@
+language: csharp
+solution: AuthTesting.sln
+
+script: mvtest
