@@ -11,4 +11,4 @@ install:
 
 script: 
   - dotnet build
-  - dotnet test 
+  - dotnet C:\Users\Marco Leon\source\repos\AuthTesting.csproj
