@@ -1,4 +1,8 @@
 language: csharp
-solution: AuthTesting.sln
+mono: none
+dotnet: 5.0.401
+script:
+ - dotnet restore
+
 
 
