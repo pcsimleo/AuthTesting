@@ -1,8 +1,19 @@
+#language: csharp
+#solution: solution-name.sln
+#install:
+#  - nuget restore solution-name.sln
+#  - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
+#script:
+#  - msbuild /p:Configuration=Release solution-name.sln
+
+
+
 language: csharp
 mono: none
 dotnet: 5.0.401
 script:
- - dotnet restore C:\Users\Marco Leon\source\repos\AuthTesting/AuthTesting.sln
+ - msbuild /p:Configuration=Release solution-name.sln
+# - dotnet restore C:\Users\Marco Leon\source\repos\AuthTesting/AuthTesting.sln
  
 
 
