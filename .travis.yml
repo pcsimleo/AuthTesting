@@ -12,7 +12,7 @@ language: csharp
 mono: none
 dotnet: 5.0.401
 script:
- - msbuild /p:Configuration=Release solution-name.sln
+ - msbuild /p:Configuration=Release C:\Users\Marco Leon\source\repos\AuthTesting/AuthTesting.sln
 # - dotnet restore C:\Users\Marco Leon\source\repos\AuthTesting/AuthTesting.sln
  
 
